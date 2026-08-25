@@ -1,0 +1,25 @@
+# ninja log v6
+18	115	7989253287296143	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+115	202	7989253288272068	New_Code.exe	44c8ef8bbd7ba4d4
+17	299	7992680814615269	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+300	593	7992680817443645	New_Code.exe	44c8ef8bbd7ba4d4
+4	117	7992690136620807	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+117	227	7992690137756683	New_Code.exe	44c8ef8bbd7ba4d4
+3	126	7992714870486838	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+127	242	7992714871717815	New_Code.exe	44c8ef8bbd7ba4d4
+37	371	7992761233636717	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+372	638	7992761236980708	New_Code.exe	44c8ef8bbd7ba4d4
+4	117	7992762970814991	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+118	245	7992762971956945	New_Code.exe	44c8ef8bbd7ba4d4
+4	109	7992764966696572	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+110	210	7992764967759241	New_Code.exe	44c8ef8bbd7ba4d4
+58	492	7992786999286374	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+492	751	7992787003620751	New_Code.exe	44c8ef8bbd7ba4d4
+141	743	7995968197961617	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+745	1436	7995968203985067	New_Code.exe	44c8ef8bbd7ba4d4
+110	696	7997915507598042	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+697	1524	7997915513476995	New_Code.exe	44c8ef8bbd7ba4d4
+24	167	7997964578938241	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+167	293	7997964580364860	New_Code.exe	44c8ef8bbd7ba4d4
+19	149	7997966227795052	CMakeFiles/New_Code.dir/main.cpp.obj	c3691b4f1706ef07
+150	273	7997966229102689	New_Code.exe	44c8ef8bbd7ba4d4

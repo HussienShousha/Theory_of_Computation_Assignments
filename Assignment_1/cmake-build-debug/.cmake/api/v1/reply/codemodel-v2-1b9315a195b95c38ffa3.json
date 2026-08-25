@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "New_Code",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "New_Code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-New_Code-Debug-4e1ea3de8fa643b15071.json",
+					"name" : "New_Code",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mosta/OneDrive/Desktop/Our_PC/FCAI/Fouth_Year_SWE/Second_Term/Theory_Of_Computation/Assignments/Assignment_1/New_Code/cmake-build-debug",
+		"source" : "C:/Users/mosta/OneDrive/Desktop/Our_PC/FCAI/Fouth_Year_SWE/Second_Term/Theory_Of_Computation/Assignments/Assignment_1/New_Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

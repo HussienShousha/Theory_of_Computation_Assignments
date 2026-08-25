@@ -1,0 +1,3 @@
+C:/Users/mosta/OneDrive/Desktop/Our_PC/FCAI/Fouth_Year_SWE/Second_Term/Theory_Of_Computation/Assignments/Assignment_1/New_Code/cmake-build-debug/CMakeFiles/New_Code.dir
+C:/Users/mosta/OneDrive/Desktop/Our_PC/FCAI/Fouth_Year_SWE/Second_Term/Theory_Of_Computation/Assignments/Assignment_1/New_Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mosta/OneDrive/Desktop/Our_PC/FCAI/Fouth_Year_SWE/Second_Term/Theory_Of_Computation/Assignments/Assignment_1/New_Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
